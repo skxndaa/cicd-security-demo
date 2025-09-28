@@ -1,9 +1,9 @@
 # DevSecOps Task Management API
 
-[![CI/CD Pipeline](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci-cd.yml)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=YOUR_PROJECT_KEY&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=YOUR_PROJECT_KEY)
-[![Coverage](https://codecov.io/gh/YOUR_USERNAME/YOUR_REPO/branch/main/graph/badge.svg)](https://codecov.io/gh/YOUR_USERNAME/YOUR_REPO)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=YOUR_PROJECT_KEY&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=YOUR_PROJECT_KEY)
+[![CI/CD Pipeline](https://github.com/skxndaa/cicd-security-demo/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/skxndaa/cicd-security-demo/actions/workflows/ci-cd.yml)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=skxndaa_cicd-security-demo&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=skxndaa_cicd-security-demo)
+[![Coverage](https://codecov.io/gh/skxndaa/cicd-security-demo/branch/main/graph/badge.svg)](https://codecov.io/gh/skxndaa/cicd-security-demo)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=skxndaa_cicd-security-demo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=skxndaa_cicd-security-demo)
 [![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -206,17 +206,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/YOUR_USERNAME/YOUR_REPO)
-- [CI/CD Pipeline](https://github.com/YOUR_USERNAME/YOUR_REPO/actions)
-- [Security Dashboard](https://github.com/YOUR_USERNAME/YOUR_REPO/security)
-- [Code Coverage](https://codecov.io/gh/YOUR_USERNAME/YOUR_REPO)
+- [GitHub Repository](https://github.com/skxndaa/cicd-security-demo)
+- [CI/CD Pipeline](https://github.com/skxndaa/cicd-security-demo/actions)
+- [Security Dashboard](https://github.com/skxndaa/cicd-security-demo/security)
+- [Code Coverage](https://codecov.io/gh/skxndaa/cicd-security-demo)
 
 ## 📞 Support
 
 For support and questions:
 
-- Create an [Issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues)
-- Check the [Documentation](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki)
+- Create an [Issue](https://github.com/skxndaa/cicd-security-demo/issues)
+- Check the [Documentation](https://github.com/skxndaa/cicd-security-demo/wiki)
 - Review [Security Guidelines](SECURITY.md)
 
 ---

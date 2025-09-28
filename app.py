@@ -17,6 +17,20 @@ app = Flask(__name__)
 # In-memory storage for demo purposes
 tasks = {}
 
+@app.route('/', methods=['GET'])
+def home():
+    """Root endpoint with API information"""
+    return jsonify({
+        'message': 'Welcome to DevSecOps Task Management API',
+        'version': '1.0.0',
+        'endpoints': {
+            'health': '/health',
+            'tasks': '/tasks',
+            'documentation': 'https://github.com/skxndaa/cicd-security-demo'
+        },
+        'status': 'running'
+    }), 200
+
 @app.route('/health', methods=['GET'])
 def health_check():
     """Health check endpoint"""
